@@ -291,7 +291,7 @@ line-height: 25px;
   text-align: center;
   font-size: 40px;
   margin-top: 130%;
-  padding: 10%;
+  padding: 5%;
 }
   
 
@@ -593,11 +593,12 @@ footer{
         visibility: hidden;
     }
 
-    #cat-sofa img{  
-        width: 250px;
+    #cat-sofa img{ 
+        width: 300px;
         height: auto;
-
     }
+
+
 
     #rules{
         clear: both;
@@ -624,7 +625,7 @@ footer{
         width: 80%;
         margin: 0 auto;
         padding: 10%;
-        font-size: 15wpx;
+        font-size: 15px;
     }
 
     #cat-sofa img{
@@ -644,14 +645,37 @@ footer{
       }
 
       #cats-1{
-        margin: 0;
-        padding: 10px;
+        margin-right: 70px;  
        }
     
        #cats-2{
-        margin: 0;
-        padding: 0;
+        margin-left: 50px;
        }
+
+       #cats-1 img{
+        margin-left: 25%;
+       }
+
+       #cats-2 img{
+        margin-right: 15%;
+       }
+
+       #information{
+        font-size: 18px;
+        margin-left: 23%;
+      }
+    
+      #cat-ears img{
+        width: 250px;
+        margin-left: 20%;
+        margin-top: 25%;
+      }
+
+      #right-text{
+        background-color: white;
+        margin: 0 auto;
+        width: 80%;
+      }
 
 
       footer{
