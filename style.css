@@ -425,7 +425,7 @@ footer{
     padding: 1%;
    }
 
-   #matcha-latte{
+   .matcha-latte{
     visibility: hidden;
 }
 
@@ -616,7 +616,7 @@ footer{
         height: auto;
       }
 
-      #matcha-latte{
+      .matcha-latte{
         visibility: visible;
       }
 
