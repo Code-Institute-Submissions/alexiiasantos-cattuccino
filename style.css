@@ -218,6 +218,11 @@ line-height: 25px;
     margin-left: 60px;
 }
 
+.breakfast-2{
+    font-size: 22px;
+    margin-left: 60px;
+}
+
 #menu-breakfast img{
     width: 400px;
     height: auto;
@@ -285,7 +290,7 @@ line-height: 25px;
   color: #382B22;
   text-align: center;
   font-size: 40px;
-  margin-top: 132%;
+  margin-top: 130%;
   padding: 10%;
 }
   
@@ -350,10 +355,6 @@ line-height: 25px;
     cursor: pointer;
  }
 
-
-
-
-  
  
 /* footer */
 
@@ -438,6 +439,32 @@ footer{
    footer{
     clear: both;
    }
+
+   #information{
+    font-size: 18px;
+    margin-left: 10%;
+  }
+
+  #cat-ears img{
+    width: 250px;
+    margin-left: 8%;
+    margin-top: 15%;
+  }
+
+  #right-text{
+    width: 38%;
+    font-size: 12px;
+  }
+
+  #fname, #email{
+    width: 290px;
+    height: 30px;
+ }
+
+ #feed{
+    width: 290px;
+ }
+
 }
 
 
@@ -536,23 +563,21 @@ footer{
     header {
         clear: both;
         width: 100%;
-        
-        
     }
 
     #menu li {
         float: right;
-        margin-right: 7%;
+        margin-right: 30px;
         font-size: 50%;
         letter-spacing: 2px;
     }
 
     #logotipo {
+        visibility: hidden;
         float: left;
-        margin-left: 10px;
+        width: 1%;
+        margin-left: 0;
         margin-top: 24px;
-        width: 10%;
-        height: auto;
     }
 
     #hero-image{
@@ -561,37 +586,73 @@ footer{
     }
 
     #text-cat1 {
-        clear: both;
-        margin-bottom: 112%;
-        margin-left: 5%;
-        font-size: 80%;
+        visibility: hidden;
     }
 
     #text-cat2 {
+        visibility: hidden;
+    }
+
+    #cat-sofa img{  
+        width: 250px;
+        height: auto;
+
+    }
+
+    #rules{
         clear: both;
-        margin-bottom: 110%;
-        width: 70%;
-        margin-left: 5%;
-        font-size: 70%;
+        padding: 25%;
+        margin: 0;
+    }
+
+    .gallery{
+        width: 50px;
+        padding: 20%;
+      }
+
+      .gallery img{
+        width: 400%;
+        height: auto;
+      }
+
+      #matcha-latte{
+        visibility: visible;
+      }
+
+
+    #mid-section{
+        width: 80%;
+        margin: 0 auto;
+        padding: 10%;
+        font-size: 15wpx;
     }
 
     #cat-sofa img{
         clear: both;  
         float: left;
-        margin-left: 10%;
+        margin-left: 0;
         padding: 0;
     }
 
-    .gallery {
-        width: 50%;
-        margin-left: 5%;
-        float: left;
-        padding: 0;
-        text-align: center;
-        padding-top: 5%;
-        padding-bottom: 5%;
-    
+    .breakfast{
+        margin: 0 auto;
       }
+
+      .breakfast-2{
+        font-size: 14px;
+        margin: 0 auto;
+      }
+
+      #cats-1{
+        margin: 0;
+        padding: 10px;
+       }
+    
+       #cats-2{
+        margin: 0;
+        padding: 0;
+       }
+
 
       footer{
         clear: both;
@@ -612,18 +673,5 @@ footer{
         letter-spacing: 2px;
     }
 
-    #mid-section{
-        width: 80%;
-        margin: 0 auto;
-        padding: 10%;
-        font-size: 15wpx;
-    }
-
-    #cat-sofa img{
-        clear: both;  
-        float: left;
-        margin-left: 0;
-        padding: 0;
-    }
 }
 
