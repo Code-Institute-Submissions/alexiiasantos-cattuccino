@@ -50,7 +50,34 @@ This project aims to show my new acquired skills in design and create a static w
    
    # Deployment
    
-    • The website was deployed to GitHub pages.
+   • This website was deployed to GitHub pages.
+      1- In GibHub cattuccino repository click on Settings;
+      2- On the left-side click on Pages;
+      3- On the GitHub Pages click on branch and select to main;
+      4- After the main branch has been selected, the page will be automatically refreshed.
+      
+  The live link is found here: https://alexiiasantos.github.io/cattuccino/
+      
+   # Credits
+   
+   1- Content
+   
+   • Icon on the logo was taken from: https://www.freelogodesign.org/
+   
+   • Icons on footer were taken from: https://fontawesome.com/
+   
+   • Icons on footer were taken from: https://fontawesome.com/
+   
+   • Font styles using Google Fonts: https://fonts.google.com/
+   
+   • Instructions on how to implement form validation from youtube: https://www.youtube.com/watch?v=fNcJuPIZ2WE&t=1110s
+   
+   • Consultation of W3 Schools for any questions I had during this process: https://www.w3schools.com/html/
+   
+   2- Media
+   
+   • Images used on the website come from: https://www.pexels.com/ and https://www.canva.com/
+   
     
   
   
