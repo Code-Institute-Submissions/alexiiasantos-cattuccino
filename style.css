@@ -164,7 +164,7 @@ line-height: 25px;
     float: left;
     padding: 2%;
     padding-top: 5%;
-    padding-bottom: 5%;
+    padding-bottom: 8%;
 
   }
 
@@ -173,18 +173,17 @@ line-height: 25px;
     height: auto;
   }
 
+  .final-text{
+    font-size: 20px;
+}
 
-#meow-gallery h1{
+#meow-gallery h2{
     letter-spacing: 4px;
     text-align: center;
     color: #382B22;
-    font-size: 40px;
+    font-size: 50px;
 }
 
-#cat-purrson{
-    text-align: center;
-    padding-bottom: 5%;
-}
 
 /* breakfast */
 
