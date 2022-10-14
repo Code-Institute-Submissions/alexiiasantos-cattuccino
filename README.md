@@ -36,4 +36,21 @@ This project aims to show my new acquired skills in design and create a static w
   
   • **Mobile** - Tested on my Iphone12 Pro and used Google Chrome Dev Tools to test other phones, Samsung Galaxy S20 and Pixel 5. All pages, links and icons worked as anticipated.
   
+  • **Footer** - Click on icons will open a new browser window associated with the social link.
+  
+  # Validator
+  
+  • HTML- No errors were returned when passing through the official W3C validator: https://validator.w3.org/nu/
+  
+  # Technologies Used
+  
+  • **HTML (hyper text markup language):** Build of all pages of the website.
+  
+   • **CSS (cascading style sheets):** Styling different elements of the website, such as font, color etc.
+   
+   # Deployment
+   
+    • The website was deployed to GitHub pages.
+    
+  
   
