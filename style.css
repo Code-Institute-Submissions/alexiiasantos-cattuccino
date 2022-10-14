@@ -81,6 +81,7 @@ line-height: 25px;
 
 #text-cat1{
     background-color: #382B22;
+    font-family: 'Aref Ruqaa Ink', serif;
     color: antiquewhite;
     position: absolute;
     font-size: 35px;
@@ -117,6 +118,16 @@ line-height: 25px;
     float: left;
     margin-left: 8%;
     padding: 5%;
+}
+
+#about h2{
+    font-family: 'Aref Ruqaa Ink', serif;
+    color: #CCAB93;
+    font-size: 30px;
+}
+
+#about h3{
+    font-size: 23px;
 }
 
 #mid-section{
@@ -173,17 +184,17 @@ line-height: 25px;
     height: auto;
   }
 
-  .final-text{
-    font-size: 20px;
-}
 
 #meow-gallery h2{
     letter-spacing: 4px;
     text-align: center;
     color: #382B22;
-    font-size: 50px;
+    font-size: 40px;
 }
 
+#cat-purrson{
+    font-size: 30px;
+}
 
 /* breakfast */
 
@@ -194,12 +205,14 @@ line-height: 25px;
     margin-left: 5%;
 }
 
-#menu-breakfast{
+.menu-breakfast{
     margin-left: 70px;
     padding: 25px;
 }
 
-#menu-breakfast h1{
+.menu-breakfast h2{
+    font-family: 'Aref Ruqaa Ink', serif;
+    color: #CCAB93;
     font-size: 40px;
     border-bottom: 3px dotted #CCAB93;
     padding: 1%; 
@@ -215,7 +228,7 @@ line-height: 25px;
     margin-left: 60px;
 }
 
-#menu-breakfast img{
+.menu-breakfast img{
     width: 400px;
     height: auto;
     float: right;
@@ -231,7 +244,7 @@ line-height: 25px;
     margin-left: 5%;
 }
   
-#cats-1 img{
+.cats-1 img{
     margin-top: 6%;
     width: 260px;
     height: 250px;
@@ -242,7 +255,7 @@ line-height: 25px;
     
   }
   
-  #cats-2 img{ 
+  .cats-2 img{ 
     margin-top: 6%;
     width: 260px;
     height: 250px;
@@ -253,8 +266,13 @@ line-height: 25px;
    
   }
   
+  .cats-1 h2, .cats-2 h2{
+    font-family: 'Aref Ruqaa Ink', serif;
+    color: #CCAB93;
+
+  }
   
-  #cats1-text{
+  .cats1-text{
     text-align: center;
     font-size: 25px;
     letter-spacing: 2px;
@@ -266,7 +284,7 @@ line-height: 25px;
     padding-top: 5%;
   }
   
-  #cats2-text{
+  .cats2-text{
     text-align: center;
     font-size: 25px;
     letter-spacing: 2px;
@@ -282,8 +300,8 @@ line-height: 25px;
   color: #382B22;
   text-align: center;
   font-size: 40px;
-  margin-top: 130%;
-  padding: 5%;
+  margin-top: 135%;
+  padding: 3%;
 }
   
 
