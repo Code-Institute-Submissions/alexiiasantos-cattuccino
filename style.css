@@ -140,30 +140,18 @@ line-height: 25px;
     text-align: center;
 }
 
+.emoji{
+    font-size: 50px;
+}
 
 #rules h3{
     color: antiquewhite;
     font-family: 'Tajawal', sans-serif;
     letter-spacing: 2px;
-    font-size: 18px;
+    font-size: 20px;
     height: 100px;   
 }
 
-
-#cat{
-   
-    font-size: 45px;
-    
-}
-
-#cookies{
-    font-size: 45px;
-}
-
-
-#camera{
-    font-size: 45px;
-}
 
 
 
@@ -178,6 +166,11 @@ line-height: 25px;
     padding-top: 5%;
     padding-bottom: 5%;
 
+  }
+
+  .gallery img{
+    width: 300px; 
+    height: auto;
   }
 
 
