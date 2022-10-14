@@ -30,4 +30,6 @@ This project aims to show my new acquired skills in design and create a static w
   
   # Testing
   
-  I have used Google Chrome dev tools to see how the website would load with different sizes. I have also tested in a Ipad mini and Iphone 12 Pro. All images and icons performed as anticipated. 
+  I have used Google Chrome dev tools to see how the website would load with different sizes. I have also tested in a Ipad mini and Iphone 12 Pro. All images and icons performed as anticipated.
+  
+  
