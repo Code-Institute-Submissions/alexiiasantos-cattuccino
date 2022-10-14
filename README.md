@@ -34,6 +34,6 @@ This project aims to show my new acquired skills in design and create a static w
   
   • **Desktop** - Tested on Google Chrome and Firefox browser: All pages, links and icons worked as anticipated, changing between large, medium and small screens.
   
-  • **Mobile** - Tested on my Iphone12 Pro
+  • **Mobile** - Tested on my Iphone12 Pro and used Google Chrome Dev Tools to test other phones, Samsung Galaxy S20 and Pixel 5. All pages, links and icons worked as anticipated.
   
   
