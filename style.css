@@ -296,7 +296,7 @@ line-height: 25px;
   #cat-ears img{
     width: 350px;
     height: auto;
-    margin-left: 12%;
+    margin-left: 13.8%;
     margin-top: 10%;
   }
 
@@ -306,19 +306,49 @@ line-height: 25px;
     font-size: 20px;
     text-align: center;
     float: left;
-    margin-left: 15.5%;
+    margin-left: 17%;
   }
 
   #information h1{
     border-bottom: 3px dotted #CCAB93;
   }
 
- #feedback{
-    background-color: #382B22;
-    margin-left: 60%;
+ #right-text{
+    background-color: #f2e8e1;
+    margin-left: 52%;
+    width: 35%;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 50px;
+ }
+
+ #right-text h1{
+    color: #382B22;
+    font-size: 35px;
+ }
+
+ #right-text label{
+    font-size: 20px;
+ }
+
+ #fname, #email{
+    width: 450px;
+    height: 30px;
  }
 
 
+ #feed{
+    width: 450px;
+    height: 250px;
+ }
+
+ #submit{
+    background-color: #382B22;
+    color: white;
+    padding: 16px 32px;
+    margin: 4px 2px;
+    cursor: pointer;
+ }
 
 
 
