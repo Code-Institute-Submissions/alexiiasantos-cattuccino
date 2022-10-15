@@ -440,7 +440,7 @@ footer{
 }
 
 
-   #menu-breakfast{
+   .menu-breakfast{
     padding: 0;
     float: right;
     margin-right: 0;
@@ -514,6 +514,11 @@ footer{
         margin-left: 10%;
     }
 
+    .puurfect{
+        clear: both;
+        font-size: 60px;
+       }
+
     #meow-gallery img {
         clear: both;
         padding: 0;
@@ -530,7 +535,7 @@ footer{
         padding: 5%;
     }
 
-    #menu-breakfast img {
+    .menu-breakfast img {
         clear: both;
         padding: 8%;
         float: left;
@@ -546,19 +551,19 @@ footer{
         margin-bottom: 5%;
     }
 
-    #cats-1 img{
+    .cats-1 img{
         margin-left: 35%;
     }
 
-    #cats-2 img{
+    .cats-2 img{
         margin-right: 30%;
     }
 
-    #cats1-text{
+    .cats1-text{
         margin-left: 20%;
     }
 
-    #cats2-text{
+    .cats2-text{
         margin-right: 16%;
     }
 
@@ -654,20 +659,25 @@ footer{
         margin: 0 auto;
       }
 
-      #cats-1{
+      .cats-1{
         margin-right: 70px;  
        }
     
-       #cats-2{
+       .cats-2{
         margin-left: 50px;
        }
 
-       #cats-1 img{
+       .cats-1 img{
         margin-left: 25%;
        }
 
-       #cats-2 img{
+       .cats-2 img{
         margin-right: 15%;
+       }
+
+       .puurfect{
+        
+        font-size: 50px;
        }
 
        #information{
